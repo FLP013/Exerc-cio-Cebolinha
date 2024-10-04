@@ -1,4 +1,4 @@
-﻿Console.WriteLine("");
+﻿Console.Clear();
  
 Console.Write("Escreva uma frase: ");
  
