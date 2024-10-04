@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("");
+ 
+Console.Write("Escreva uma frase: ");
+ 
+Console.WriteLine(
+Console.ReadLine()!
+.Replace("r", "l")
+.Replace("R", "L")
+);
+ 
